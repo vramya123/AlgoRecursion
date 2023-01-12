@@ -1,9 +1,9 @@
 
 /*
-Reference Youtube Link for explanation : https://www.youtube.com/watch?v=or-hWONlCgg&list=PLvg-AaxR3aaZk13DjSEznf848b9lBTeY1&index=5
+- Reference Youtube Link for explanation : https://www.youtube.com/watch?v=or-hWONlCgg&list=PLvg-AaxR3aaZk13DjSEznf848b9lBTeY1&index=5
 - Recursion on subsequence
 - Subsequence in all possible combination which may be contiguous or not contiguous.
-eg : {1,2,3} => {}, {1}, {2}, {3}, {1,2}, {1,3}, {2,3}, {1,2,3}
+eg : "ab" => {}, {a},{b},{ab}
 
 - i/p:- abcd
 
